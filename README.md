@@ -2,7 +2,9 @@
 
 This application is deployed on AWS using Elastic Beanstalk for hosting the API, RDS for creating and managing the database and S3 for web hosting
 
-Application link: http://udagram-env.eba-jpyu8ypk.us-east-1.elasticbeanstalk.com
+Application link: http://trashbkt.s3-website-us-east-1.amazonaws.com
+
+API link: http://udagram-env.eba-jpyu8ypk.us-east-1.elasticbeanstalk.com
 
 Documentation folder: [Documentation](udagram/documentation)
 
